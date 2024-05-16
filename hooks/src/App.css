@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+  border: 1px solid black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  border: 2px solid white;
+  height: 200px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  height: 50px;width: 50px;
+  background-color: brown;
+  font-size: x-large;
+}
+span{
+  color: aqua;
+  margin: 10px;
+  font-size: larger;
+}
