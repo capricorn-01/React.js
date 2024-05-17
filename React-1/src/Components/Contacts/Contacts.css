@@ -1,0 +1,10 @@
+.cig{
+    background-image: url();
+    border: 1px solid black;
+    height: 40vh;
+    width: 100%;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

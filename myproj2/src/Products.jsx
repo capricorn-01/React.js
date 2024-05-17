@@ -1,8 +1,8 @@
 import Productcart from "./Productcart"
 function Products(){
     return(
-        <div className="products">
-            
+      <div className="products">
+              
            <Productcart/>
            <Productcart/>
            <Productcart/>

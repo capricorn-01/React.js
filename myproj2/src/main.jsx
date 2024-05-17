@@ -12,6 +12,7 @@ import Aboutmore from './Aboutmore'
 import Footer from './Footer'
 import Endline from './Endline'
 import SC12 from './SC12'
+import Ourproducts from './Components/Ourproducts'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -25,8 +26,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Aboutmore/>
     <Footer/>
     <Endline/>
-    <Header/>
-    <Img/>
+
+
+   <Ourproducts/>
     <Underline/>
     <Products/>
     <SC12/>
